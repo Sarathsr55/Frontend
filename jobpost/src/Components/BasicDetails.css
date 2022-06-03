@@ -1,0 +1,60 @@
+.container{
+    margin-left: 25px;
+    margin-right: 45px;
+    
+}
+.heading{
+    color: rgb(10, 177, 121);
+    border-bottom: 2px solid rgb(90, 90, 90);
+    line-height: .25rem;
+}
+.formcontainer{
+    padding-right: 200px;
+}
+.form{
+    margin-top: 30px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    line-height: 2.5rem;
+}
+.experiencefield{
+    display: flex;
+    flex-direction: row;
+}
+.postbutton{
+    color: white;
+    background-color:rgb(10, 177, 121) ;
+    border: none;
+}
+.addjobbutton{
+    
+    color: rgb(10, 177, 121);
+    background-color:white ;
+    border-color:#04AA6D ;
+    
+}
+.cancelbutton{
+    color: rgb(10, 121, 177);
+    background-color:white ;
+    border: none;
+}
+.buttons{
+    margin-left: 100px;
+    display: flex;
+    gap: 20px;
+}
+.tag{
+    background-color: rgba(162, 160, 160, 0.642);
+    border-radius: 5px;
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  min-width: 100px;
+}
+.tags{
+    display: flex;
+    gap: 5px;
+}
+
